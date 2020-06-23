@@ -1,0 +1,15 @@
+/* Modify background color */
+.navbar-custom{
+  background-color: darkblue;
+}
+
+/* Modify text color */
+.navbar-custom .navbar-nav,
+.navbar-custom .navbar-text{
+  color: blue;
+}
+
+/* Modify body background color */
+.container{
+  background-color: lightgrey;
+}
